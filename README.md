@@ -1,16 +1,51 @@
-# React + Vite
+# ITIsMyTown
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+ITIsMyTown is a React web application where users can select a role<img width="1920" height="902" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/a152d104-2104-485b-96e7-7f52e4d27154" />
 
-Currently, two official plugins are available:
+(Shopper, Business <img width="1920" height="869" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/4952f673-f018-4f0c-bbbb-85410df5e244" />
+Owner, Sender, Transporter, Courier) and register
+using a clean and user-friendly form.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The project is built using **React + Vite** and styled with **Tailwind CSS**.
+It is deployed on **GitHub Pages**.
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🌐 Live Demo
 
-## Expanding the ESLint configuration
+👉 https://vishalkondi.github.io/itismytown/
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features
+
+- Role selection screen
+- Registration form displayed after clicking Continue
+- Shopper registration form
+- Fields included:
+  - Name
+  - Address
+  - Email ID
+  - Town, City, State, Country
+  - Postal Code
+  - Mobile number with 🇮🇳 India flag and +91
+  - Password (minimum 8 characters)
+  - Confirm Password
+  - Terms & Conditions and Privacy Policy checkbox
+- Responsive UI
+- Clean Figma-inspired design
+
+---
+
+## 🛠️ Tech Stack
+
+- React
+- Vite
+- Tailwind CSS
+- Lucide React Icons
+- GitHub Pages
+
+---
+
+## 📂 Project Structure
+
