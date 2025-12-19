@@ -1,6 +1,8 @@
 🏙️ ITIsMyTown
 
-ITIsMyTown is a modern React web application that enables users to select a role (Shopper, Business Owner, Sender, Transporter, Courier) and register through a clean, structured, and user-friendly form.
+ITI<img width="1920" height="869" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/43b92664-b0f6-4e6d-a98a-086f8a6fa3a2" />
+sMyTown is a modern React web application that enables users to select <img width="1920" height="902" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/d4adda64-8f48-4fde-ab6b-ed3c909aaab6" />
+a role (Shopper, Business Owner, Sender, Transporter, Courier) and register through a clean, structured, and user-friendly form.
 The application is built with React + Vite, styled using Tailwind CSS, and deployed on GitHub Pages.
 
 🌐 Live Application
