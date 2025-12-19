@@ -1,51 +1,176 @@
-# ITIsMyTown
+🏙️ ITIsMyTown
 
-ITIsMyTown is a React web application where users can select a role<img width="1920" height="902" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/a152d104-2104-485b-96e7-7f52e4d27154" />
+ITIsMyTown is a modern React web application that enables users to select a role (Shopper, Business Owner, Sender, Transporter, Courier) and register through a clean, structured, and user-friendly form.
+The application is built with React + Vite, styled using Tailwind CSS, and deployed on GitHub Pages.
 
-(Shopper, Business <img width="1920" height="869" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/4952f673-f018-4f0c-bbbb-85410df5e244" />
-Owner, Sender, Transporter, Courier) and register
-using a clean and user-friendly form.
+🌐 Live Application
 
-The project is built using **React + Vite** and styled with **Tailwind CSS**.
-It is deployed on **GitHub Pages**.
+🔗 Live Demo:
+https://vishalkondi.github.io/itismytown/
 
----
+🎯 Key Highlights
 
-## 🌐 Live Demo
+Intuitive role selection interface
 
-👉 https://vishalkondi.github.io/itismytown/
+Dynamic registration form rendered on the same page
 
----
+Shopper registration workflow
 
-## ✨ Features
+India mobile number input with 🇮🇳 +91 prefix
 
-- Role selection screen
-- Registration form displayed after clicking Continue
-- Shopper registration form
-- Fields included:
-  - Name
-  - Address
-  - Email ID
-  - Town, City, State, Country
-  - Postal Code
-  - Mobile number with 🇮🇳 India flag and +91
-  - Password (minimum 8 characters)
-  - Confirm Password
-  - Terms & Conditions and Privacy Policy checkbox
-- Responsive UI
-- Clean Figma-inspired design
+Password validation (minimum 8 characters)
 
----
+Confirm password verification
 
-## 🛠️ Tech Stack
+Mandatory acceptance of Terms & Conditions and Privacy Policy
 
-- React
-- Vite
-- Tailwind CSS
-- Lucide React Icons
-- GitHub Pages
+Responsive layout (desktop & mobile)
 
----
+Clean UI aligned with Figma design
 
-## 📂 Project Structure
+Optimized build using Vite
 
+Deployed using GitHub Pages
+
+🧩 Features
+🔹 Role Selection
+
+Users can choose one of the following roles:
+
+Shopper
+
+Business Owner
+
+Sender
+
+Transporter
+
+Courier
+
+🔹 Registration Form
+
+Includes the following fields:
+
+Name
+
+Email ID
+
+Address
+
+Town
+
+City
+
+State
+
+Country
+
+Postal Code
+
+Mobile Number (🇮🇳 +91)
+
+Password (minimum 8 characters)
+
+Confirm Password
+
+Terms & Conditions & Privacy Policy checkbox
+
+🛠️ Tech Stack
+Technology	Usage
+React	UI Development
+Vite	Build Tool
+Tailwind CSS	Styling
+Lucide React	Icons
+GitHub Pages	Deployment
+📁 Project Structure
+src/
+├── components/
+│   ├── Header.jsx
+│   ├── RoleCard.jsx
+│   ├── RoleSelectionSection.jsx
+│   ├── RegistrationFormSection.jsx
+│   └── InfoBanner.jsx
+├── App.jsx
+├── main.jsx
+├── index.css
+└── vite.config.js
+
+⚙️ Local Setup
+1️⃣ Clone Repository
+git clone https://github.com/Vishalkondi/itismytown.git
+cd itismytown
+
+2️⃣ Install Dependencies
+npm install
+
+3️⃣ Start Development Server
+npm run dev
+
+
+App runs on:
+
+http://localhost:5173
+
+🚀 Build & Deployment
+Build the Project
+npm run build
+
+Deploy to GitHub Pages
+npm run deploy
+
+
+Live URL:
+
+https://vishalkondi.github.io/itismytown/
+
+🔐 Validation Rules
+
+Password must contain at least 8 characters
+
+Password and Confirm Password must match
+
+Mobile number must be a valid 10-digit Indian number
+
+Terms & Conditions checkbox is mandatory
+
+📌 Future Enhancements
+
+OTP-based mobile verification
+
+Backend API integration
+
+Role-specific registration forms
+
+Authentication & login flow
+
+Admin dashboard
+
+👨‍💻 Author
+
+Vishal Kondi
+GitHub: https://github.com/Vishalkondi
+
+📄 License
+
+This project is developed for learning and portfolio purposes.
+
+✅ Next Steps
+
+After adding this README:
+
+git add README.md
+git commit -m "Add professional README"
+git push
+
+
+If you want:
+
+⭐ README badges
+
+📸 Screenshots section
+
+🧾 Resume-ready project description
+
+🧑‍💼 Company-grade documentation
+
+Just tell me — we’ll level it up 🚀
