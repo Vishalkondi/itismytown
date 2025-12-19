@@ -2,6 +2,11 @@
 <img width="1920" height="869" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/43b92664-b0f6-4e6d-a98a-086f8a6fa3a2" />
  <img width="1920" height="902" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/d4adda64-8f48-4fde-ab6b-ed3c909aaab6" />
 
+
+
+
+
+
 **ITIsMyTown** is a modern, role-based registration web application built with **React + Vite**.  
 It allows users to select a role and register through a clean, intuitive, and responsive form inspired by a Figma design.
 
