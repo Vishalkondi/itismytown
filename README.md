@@ -91,18 +91,7 @@ Vite	Build Tool
 Tailwind CSS	Styling
 Lucide React	Icons
 GitHub Pages	Deployment
-📁 Project Structure
-src/
-├── components/
-│   ├── Header.jsx
-│   ├── RoleCard.jsx
-│   ├── RoleSelectionSection.jsx
-│   ├── RegistrationFormSection.jsx
-│   └── InfoBanner.jsx
-├── App.jsx
-├── main.jsx
-├── index.css
-└── vite.config.js
+
 
 ⚙️ Local Setup
 1️⃣ Clone Repository
@@ -163,23 +152,4 @@ GitHub: https://github.com/Vishalkondi
 
 This project is developed for learning and portfolio purposes.
 
-✅ Next Steps
 
-After adding this README:
-
-git add README.md
-git commit -m "Add professional README"
-git push
-
-
-If you want:
-
-⭐ README badges
-
-📸 Screenshots section
-
-🧾 Resume-ready project description
-
-🧑‍💼 Company-grade documentation
-
-Just tell me — we’ll level it up 🚀
